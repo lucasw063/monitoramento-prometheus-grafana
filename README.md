@@ -1,7 +1,28 @@
-# monitoramento-prometheus-grafana
-Stack de monitoramento com Prometheus + Grafana em VM na Oracle Cloud.
+📊 Monitoramento com Prometheus e Grafana
 
-Monitoramento com Prometheus e Grafana
+Projeto acadêmico desenvolvido para a disciplina de Engenharia de Software, do curso de Engenharia de Software da ULBRA Palmas.
+
+🎯 Sobre o projeto
+
+Implementação de uma stack de monitoramento utilizando Prometheus e Grafana, hospedada em uma máquina virtual na Oracle Cloud. O projeto tem como objetivo demonstrar, na prática, conceitos de observabilidade, coleta de métricas e visualização de dados em ambientes de infraestrutura.
+
+🖥️ Apresentação
+
+A apresentação completa do projeto está disponível no Google Slides:
+
+🔗 Link da apresentação <!-- adicione o link real do Google Slides -->
+
+🛠️ Tecnologias utilizadas
+
+Prometheus
+
+Grafana
+
+Oracle Cloud Infrastructure (OCI)
+
+Linux (VM)
+
+
 > Documentação técnica de instalação, configuração e integração do stack de monitoramento Prometheus + Grafana em instância Ubuntu 22.04 na Oracle Cloud Infrastructure (OCI).
 ---
 1. Introdução às Ferramentas:
