@@ -10,7 +10,7 @@ Implementação de uma stack de monitoramento utilizando Prometheus e Grafana, h
 
 A apresentação completa do projeto está disponível no Google Slides:
 
-🔗 Link da apresentação <!-- adicione o link real do Google Slides -->
+🔗 [Link da apresentação](https://docs.google.com/presentation/d/1TePQL24C8pa1hdjoRc9tK_Voxp-ZeibQWwlybZvk37Y/edit?usp=sharing)
 
 🛠️ Tecnologias utilizadas
 
